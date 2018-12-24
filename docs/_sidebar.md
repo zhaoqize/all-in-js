@@ -5,7 +5,7 @@
   - [Refs的三种写法](/React/Refs的三种写法.md)
   - [setState问题](/React/setState问题.md)
   - [受控与非受控组件](/React/受控与非受控组件.md)
-  - [组件的三种形式](/React/组件的三种形式.md)
+  - [组件的三种形式](/React/组件的几种形式.md)
   - [知识图谱](/React/知识图谱.md)
   
 - React Native
@@ -24,7 +24,8 @@
 - 通识
   - [编程发展](/通识/编程发展.md)
   - [编程模式](/通识/编程模式.md)
-  - [backgroundImg和img的区别](/通识/backgroundImg和img的区别.md)
+  - [BackgroundImg和Img的区别](/通识/BackgroundImg和Img的区别.md)
+  - [Compose](/通识/Compose.md)
 
 - 单测
   - [异步测试](/单测/异步测试.md)
