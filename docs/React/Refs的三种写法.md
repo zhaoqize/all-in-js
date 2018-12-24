@@ -1,6 +1,6 @@
-## Refs 的三种写法
+## 一、Refs 的三种写法
 
-第一种：直接定义 `ref` 属性
+### 1、第一种：直接定义 `ref` 属性
 
 ```
 class Button extends Component {
@@ -24,7 +24,7 @@ class Button extends Component {
 }
 ```
 
-第二种：函数式写法
+### 2、第二种：函数式写法
 
 ```
 class Input extends Component {
@@ -46,7 +46,7 @@ class Input extends Component {
 }
 ```
 
-第三种：使用 `React.createRef` 绑定
+### 3、第三种：使用 `React.createRef` 绑定
 
 ```
 class MyComponent extends React.Component {
@@ -66,6 +66,6 @@ class MyComponent extends React.Component {
 }
 ```
 
-## 参考&拓展：
+## 二、参考&拓展：
 - [从React官方文档看 refs 的使用和未来](https://juejin.im/post/5927f51244d904006414925a)
 - [Refs & DOM](https://react.docschina.org/docs/refs-and-the-dom.html)

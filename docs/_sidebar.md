@@ -1,4 +1,5 @@
 <!-- docs/_sidebar.md -->
+
 - React
   - [State不可变设计](/React/State不可变设计.md)
   - [Refs的三种写法](/React/Refs的三种写法.md)
@@ -14,7 +15,7 @@
   - [Index](/vue/index.md)
 
 - Nginx
- - [rewrite前端域名不变](/Nginx/rewrite前端域名不变.md)
+ - [rewrite前端域名不变](/Nginx/Rewrite前端域名不变.md)
  - [反向代理获取真实域名](/Nginx/反向代理获取真实域名.md)
 
 - Webpack
