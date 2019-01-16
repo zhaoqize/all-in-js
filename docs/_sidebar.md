@@ -26,6 +26,7 @@
   - [编程模式](/通识/编程模式.md)
   - [BackgroundImg和Img的区别](/通识/BackgroundImg和Img的区别.md)
   - [Compose](/通识/Compose.md)
+  - [NPM](/通识/NPM.md)
 
 - 单测
   - [异步测试](/单测/异步测试.md)
